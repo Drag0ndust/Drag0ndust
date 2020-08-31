@@ -4,9 +4,10 @@
 
 - 📫 How to reach me:  
   - Add me here 😉
-  - Twitter [@drag0ndust](https://twitter.com/drag0ndust)
   - Instagram [@drag0ndust](https://instagram.com/drag0ndust)
-  - [Youtube](https://www.youtube.com/user/drag0ndust) 
+  - Patreon [@drag0ndust](https://www.patreon.com/drag0ndust)
+  - Twitter [@drag0ndust](https://twitter.com/drag0ndust)
+  - [Youtube](https://www.youtube.com/user/drag0ndust)
 
 <!--
 **Drag0ndust/Drag0ndust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
