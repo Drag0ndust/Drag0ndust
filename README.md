@@ -3,7 +3,7 @@
 # How to reach me
 [![Instagram Badge](https://img.shields.io/badge/-drag0ndust-grey?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/drag0ndust/)](https://instagram.com/drag0ndust)
 [![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzB8H97GhlBy55nkMIgyEBg?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/user/drag0ndust)
-[![Twitter Followers](https://img.shields.io/twitter/follow/drag0ndust?logo=twitter&style=for-the-badge)](https://twitter.com/drag0nbdust)
+[![Twitter Followers](https://img.shields.io/twitter/follow/drag0ndust?logo=twitter&style=for-the-badge)](https://twitter.com/drag0ndust)
 [![Twitch](https://img.shields.io/twitch/status/drag0ndust?logo=twitch&style=for-the-badge)]()
 
 # Find me on the web
