@@ -1,25 +1,15 @@
-## Hi 👋
-- 🔭 I do iOS Development, Consulting and Coaching for various customers
-- 🔭 In my freetime I’m currently working on my own app ["Stuffatory"](https://apps.apple.com/app/stuffatory/id1503902091)
+## Hi, ich bin Thimo 👋
+---
+# How to reach me
+[![Instagram Badge](https://img.shields.io/badge/-drag0ndust-grey?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/drag0ndust/)](https://instagram.com/drag0ndust)
+[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzB8H97GhlBy55nkMIgyEBg?logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/user/drag0ndust)
+[![Twitter Followers](https://img.shields.io/twitter/follow/drag0ndust?logo=twitter&style=for-the-badge)](https://twitter.com/drag0nbdust)
+[![Twitch](https://img.shields.io/twitch/status/drag0ndust?logo=twitch&style=for-the-badge)]()
 
-- 📫 How to reach me:  
-  - Add me here 😉
-  - Instagram [@drag0ndust](https://instagram.com/drag0ndust)
-  - Patreon [@drag0ndust](https://www.patreon.com/drag0ndust)
-  - Twitter [@drag0ndust](https://twitter.com/drag0ndust)
-  - [Youtube](https://www.youtube.com/user/drag0ndust)
+# Find me on the web
+I have a [Github.io Page](https://drag0ndust.github.io) where I post stuff related to iOS app development and other stuff
 
-<!--
-**Drag0ndust/Drag0ndust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you want to support me, you can do this here on the [Github Sponsor page](https://github.com/sponsors/Drag0ndust)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+![Drag0ndust's GitHub stats](https://github-readme-stats.vercel.app/api?username=drag0ndust&show_icons=true&theme=gruvbox)
