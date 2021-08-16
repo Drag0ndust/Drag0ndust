@@ -1,4 +1,4 @@
-## Hi, ich bin Thimo 👋
+## Hi, I am Thimo 👋
 ---
 # How to reach me
 [![Instagram Badge](https://img.shields.io/badge/-drag0ndust-grey?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/drag0ndust/)](https://instagram.com/drag0ndust)
