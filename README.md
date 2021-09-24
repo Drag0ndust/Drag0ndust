@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/twitch/status/drag0ndust?logo=twitch&style=for-the-badge)](https://twitch.tv/drag0ndust)
 
 # Find me on the web
-I have a [Github.io Page](https://drag0ndust.github.io) where I post stuff related to iOS app development and other stuff
+I have a [Website](https://www.tb-it-solutions.de) where I post stuff related to iOS app development and other stuff
 
 If you want to support me, you can do this here on the [Github Sponsor page](https://github.com/sponsors/Drag0ndust)
 
