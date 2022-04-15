@@ -1,7 +1,5 @@
 # Hi 👋 My name is Thimo 
-====================== 
 ## Software Engineer 
------------------ 
 * 🌍  I'm based in Germany 
 * * 🚀  I'm currently working on [Splinterlands Buddy](http://apps.apple.com/app/splinterlands-buddy/id1594887509) 
 * * 🤝  I'm open to collaborating on iOS Projects
