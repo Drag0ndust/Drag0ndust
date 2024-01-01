@@ -4,8 +4,6 @@
 * 🚀  I'm currently working on [Splinterlands Buddy](http://apps.apple.com/app/splinterlands-buddy/id1594887509), [Stuffatory](https://apps.apple.com/app/stuffatory/id1503902091) and [Scorar](https://apps.apple.com/app/scorar/id1640774066) 
 * 🤝  I'm open to collaborating on iOS Projects
 
-<a href="https://www.twitter.com/drag0ndust" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/drag0ndust?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/drag0ndust" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/drag0ndust?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/drag0ndust" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/drag0ndust?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p>
 
