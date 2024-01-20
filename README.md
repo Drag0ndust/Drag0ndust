@@ -8,8 +8,6 @@
 
 ## My Apps
 
-You can find them here
-
 | <img src="/images/scorar.png" width="100"/>              | <img src="/images/stuffatory.png" width="100"/>                  | <img src="/images/sl-buddy.png" width="100"/>                                      |
 | -------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Scorar](https://apps.apple.com/app/scorar/id1640774066) | [Stuffatory](https://apps.apple.com/app/stuffatory/id1503902091) | [Splinterlands-Buddy](https://apps.apple.com/app/splinterlands-buddy/id1594887509) |
