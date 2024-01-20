@@ -1,8 +1,18 @@
-# Hi 👋 My name is Thimo 
-## Software Engineer 
-* 🌍  I'm based in Germany 
-* 🚀  I'm currently working on [Splinterlands Buddy](http://apps.apple.com/app/splinterlands-buddy/id1594887509), [Stuffatory](https://apps.apple.com/app/stuffatory/id1503902091) and [Scorar](https://apps.apple.com/app/scorar/id1640774066) 
-* 🤝  I'm open to collaborating on iOS Projects
+# Hi 👋 My name is Thimo
+
+## Software Engineer
+
+- 🌍  I'm a Software Engineer based in Germany
+- 🚀  In my freetime I'm working on my own apps (see table below)
+- 🤝  I'm open to collaborating on iOS Projects
+
+## My Apps
+
+You can find them here
+
+| <img src="/images/scorar.png" width="100"/>              | <img src="/images/stuffatory.png" width="100"/>                  | <img src="/images/sl-buddy.png" width="100"/>                                      |
+| -------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Scorar](https://apps.apple.com/app/scorar/id1640774066) | [Stuffatory](https://apps.apple.com/app/stuffatory/id1503902091) | [Splinterlands-Buddy](https://apps.apple.com/app/splinterlands-buddy/id1594887509) |
 
 ### Support Me
 
