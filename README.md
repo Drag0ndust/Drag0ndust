@@ -2,9 +2,9 @@
 
 ## Software Engineer
 
-🌍 I'm a Software Engineer based in Germany.
-🚀 In my free time, I work on my own apps (see table below).
-🤝 I'm open to collaborating on iOS projects.
+- 🌍 I'm a Software Engineer based in Germany.
+- 🚀 In my free time, I work on my own apps (see table below).
+- 🤝 I'm open to collaborating on iOS projects.
 
 ## My Apps
 
